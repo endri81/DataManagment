@@ -1,0 +1,3 @@
+https://philip.greenspun.com/sql/
+https://www.w3resource.com/sql-exercises/
+https://sqlzoo.net/wiki/SQL_Tutorial
